@@ -21,3 +21,6 @@ The purpose of this repository is to practice basic Git and GitHub workflows inc
 ## Author
 
 Ngoc Thang Doan
+
+## Project Update
+This update was added to practice creating a pull request.
